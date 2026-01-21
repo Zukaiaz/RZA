@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using RigetZooAdventures.Models;
 
 namespace RigetZooAdventures.Data
 {
@@ -9,5 +10,6 @@ namespace RigetZooAdventures.Data
             : base(options)
         {
         }
+        public DbSet<RigetZooAdventures.Models.Bookings> Bookings { get; set; } = default!;
     }
 }

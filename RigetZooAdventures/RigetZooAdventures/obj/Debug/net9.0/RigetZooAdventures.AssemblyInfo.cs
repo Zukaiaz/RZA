@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RigetZooAdventures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24a4948a4894639024496bf5da4c003ce4b2e635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3055b6f513450dd6542e9b5cff2bbfac00f992f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RigetZooAdventures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RigetZooAdventures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
